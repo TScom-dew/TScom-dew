@@ -1,6 +1,6 @@
 ## Hi, I'm Ashlok Kumar 👋
 
-[[Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=BCA+Student;Frontend+Developer;C%2FC%2B%2B+Programmer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=BCA+Student;Frontend+Dev+in+Making;C%2FC%2B%2B+Learner;Building+in+Public)](https://git.io/typing-svg)
 
 🌐 **Portfolio:** [ashlokkumar.me](https://www.ashlokkumar.me/) &nbsp;|&nbsp; 📫 **Email:** ashlokkumar2006@gmail.com
 
@@ -17,21 +17,24 @@
 ### 🛠️ Tech Stack
 
 **Languages**  
-<img src="https://skillicons.dev/icons?i=c,cpp" height="25" /> &nbsp; **C & C++:** Basic Data Structures, Algorithms 
-<img src="https://skillicons.dev/icons?i=html,css" height="25" /> &nbsp; **HTML5 & CSS3:** Semantic Markup, Flexbox, Grid, Responsive Design  
-<img src="https://skillicons.dev/icons?i=js" height="25" /> &nbsp; **Basic JavaScript:** ES6+, DOM Manipulation, Basic Projects
+<img src="https://skillicons.dev/icons?i=c,cpp" height="25" margin="8" /> &nbsp; **C & C++:** Basic Data Structures, Algorithms 
+<br/>
+<img src="https://skillicons.dev/icons?i=html,css" height="25"  margin="8" /> &nbsp; **HTML5 & CSS3:** Semantic Markup, Flexbox, Grid, Responsive Design 
+<br/>
+<img src="https://skillicons.dev/icons?i=js" height="25"  margin="8" /> &nbsp; **Basic JavaScript:** ES6+, DOM Manipulation, Basic Projects
 
 **Tools & Platforms**  
-<img src="https://skillicons.dev/icons?i=vscode,git,github" height="25" /> &nbsp; **VS Code & GitHub:** Version Control, Code Management  
-<img src="https://skillicons.dev/icons?i=vercel,figma" height="25" /> &nbsp; **Vercel & Figma:** Deployment, UI Mockups, Wireframing
+<img src="https://skillicons.dev/icons?i=vscode,git,github" height="25"  margin="8" /> &nbsp; **VS Code & GitHub:** Version Control, Code Management  
+<br/>
+<img src="https://skillicons.dev/icons?i=vercel,figma" height="25"  margin="8" /> &nbsp; **Vercel & Figma:** Deployment, UI Mockups, Wireframing
 
 ---
 
 ### 📫 Connect With Me
 
-[<img src="https://skillicons.dev/icons?i=linkedin" height="25" />](https://www.linkedin.com/in/ashlok-kumar-998693379/) &nbsp; **LinkedIn:** Professional networking & updates  
-[<img src="https://skillicons.dev/icons?i=twitter" height="25" />](https://x.com/AshlokK29808) &nbsp; **X/Twitter:** Dev journey & tech thoughts  
-[<img src="https://skillicons.dev/icons?i=gmail" height="25" />](mailto:ashlokkumar2006@gmail.com) &nbsp; **Email:** For collaboration & opportunities
+[<img src="https://skillicons.dev/icons?i=linkedin" height="25"  margin="8" />](https://www.linkedin.com/in/ashlok-kumar-998693379/) &nbsp; **LinkedIn:** Professional networking & updates  
+[<img src="https://skillicons.dev/icons?i=twitter" height="25"  margin="8" />](https://x.com/AshlokK29808) &nbsp; **X/Twitter:** Dev journey & tech thoughts  
+[<img src="https://skillicons.dev/icons?i=gmail" height="25"  margin="8" />](mailto:ashlokkumar2006@gmail.com) &nbsp; **Email:** For collaboration & opportunities
 
 ---
 
@@ -41,4 +44,4 @@
 
 ---
 
-⭐️ **From [TScom-dew](https://github.com/TScom-dew)**
+⭐️ **From [TScom-dew, Ashlok Kumar](https://github.com/TScom-dew)**
