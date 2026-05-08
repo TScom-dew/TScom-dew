@@ -17,24 +17,24 @@
 ### 🛠️ Tech Stack
 
 **Languages**  
-<img src="https://skillicons.dev/icons?i=c,cpp" height="25" margin="8" /> &nbsp; **C & C++:** Basic Data Structures, Algorithms 
+<img src="https://skillicons.dev/icons?i=c,cpp" height="27"  /> &nbsp; **C & C++:** Basic Data Structures, Algorithms 
 <br/>
-<img src="https://skillicons.dev/icons?i=html,css" height="25"  margin="8" /> &nbsp; **HTML5 & CSS3:** Semantic Markup, Flexbox, Grid, Responsive Design 
+<img src="https://skillicons.dev/icons?i=html,css" height="27"  /> &nbsp; **HTML5 & CSS3:** Semantic Markup, Flexbox, Grid, Responsive Design 
 <br/>
-<img src="https://skillicons.dev/icons?i=js" height="25"  margin="8" /> &nbsp; **Basic JavaScript:** ES6+, DOM Manipulation, Basic Projects
+<img src="https://skillicons.dev/icons?i=js" height="27"   /> &nbsp; **Basic JavaScript:** DOM Manipulation, Basic Projects
 
 **Tools & Platforms**  
-<img src="https://skillicons.dev/icons?i=vscode,git,github" height="25"  margin="8" /> &nbsp; **VS Code & GitHub:** Version Control, Code Management  
+<img src="https://skillicons.dev/icons?i=vscode,git,github" height="27"   /> &nbsp; **VS Code & GitHub:** Version Control, Code Management  
 <br/>
-<img src="https://skillicons.dev/icons?i=vercel,figma" height="25"  margin="8" /> &nbsp; **Vercel & Figma:** Deployment, UI Mockups, Wireframing
+<img src="https://skillicons.dev/icons?i=vercel,figma" height="27"   /> &nbsp; **Vercel & Figma:** Deployment, UI Mockups, Wireframing
 
 ---
 
 ### 📫 Connect With Me
 
-[<img src="https://skillicons.dev/icons?i=linkedin" height="25"  margin="8" />](https://www.linkedin.com/in/ashlok-kumar-998693379/) &nbsp; **LinkedIn:** Professional networking & updates  
-[<img src="https://skillicons.dev/icons?i=twitter" height="25"  margin="8" />](https://x.com/AshlokK29808) &nbsp; **X/Twitter:** Dev journey & tech thoughts  
-[<img src="https://skillicons.dev/icons?i=gmail" height="25"  margin="8" />](mailto:ashlokkumar2006@gmail.com) &nbsp; **Email:** For collaboration & opportunities
+[<img src="https://skillicons.dev/icons?i=linkedin" height="27"   />](https://www.linkedin.com/in/ashlok-kumar-998693379/) &nbsp; **LinkedIn:** Professional networking & updates  
+[<img src="https://skillicons.dev/icons?i=twitter" height="27" />](https://x.com/AshlokK29808) &nbsp; **X/Twitter:** Dev journey & tech thoughts  
+[<img src="https://skillicons.dev/icons?i=gmail" height="27" />](mailto:ashlokkumar2006@gmail.com) &nbsp; **Email:** For collaboration & opportunities
 
 ---
 
