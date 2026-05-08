@@ -28,9 +28,9 @@ I’m a first-semester BCA student at **Vinoba Bhave University, Hazaribagh** wh
 
 ### 📊 GitHub Analytics
 
-[Ashlok's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TScom-dew&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Ashlok's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TScom-dew&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-[Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TScom-dew&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TScom-dew&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
@@ -44,7 +44,7 @@ Check my pinned repositories below for my latest work. I believe in learning by 
 
 I'm always open to discussing frontend, C/C++, or tech in general.
 
-[[Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.ashlokkumar.me/) [[LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashlok-kumar-998693379/) [[Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashlokkumar2006@gmail.com)
+![[Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.ashlokkumar.me/) [[LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashlok-kumar-998693379/) [[Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashlokkumar2006@gmail.com)
 
 ---
 
