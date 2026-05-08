@@ -1,45 +1,34 @@
 ### Hi, I'm Ashlok Kumar 👋
 
-**BCA Student | Aspiring Frontend Developer** 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=BCA+Student;Frontend+Dev+in+Making;C%2FC%2B%2B+Learner)](https://git.io/typing-svg)
 
 🌐 **Portfolio:** [ashlokkumar.me](https://www.ashlokkumar.me/)
 
-I’m a first-semester BCA student at **Vinoba Bhave University, Hazaribagh** who believes in building in public. Currently exploring frontend development and strengthening my CS fundamentals with C/C++. For me, consistency > talent.
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ---
 
 ### 🚀 About Me
 
-- 🎓 **Currently:** Pursuing BCA, 1st Semester
-- 💻 **Core Interest:** Frontend Development, C/C++ Programming, UI/UX
-- 🌱 **Currently Learning:** HTML, CSS, Basic JavaScript, Basic DSA in C/C++, Git & GitHub
-- 🎯 **2026 Goal:** Master frontend + build strong DSA foundation in C++
-- 💡 **Motto:** Learn. Build. Share. Repeat.
-
+- 🎓 **BCA 1st Sem** @ Vinoba Bhave University, Hazaribagh
+- 💻 **Learning:** HTML, CSS, C/C++, Basic DSA
 ---
 
-### 🛠️ Tech Toolbox
+### 🛠️ Tech Stack
 
 **Languages:** `C` `C++` `HTML` `CSS` `Basic JavaScript`  
-**Tools:** `VS Code` `Figma` `GCC/G++`  
-**CS Fundamentals:** `Basic Data Structures` `Basic Algorithms` `Problem Solving`
+**Tools:** `VS Code` `GitHub` `Figma`
 
 ---
 
-### 📌 Pinned Projects
+### 📫 Connect With Me
 
-Check my pinned repositories below for my latest work. I believe in learning by building.
-
----
-
-### 📫 Let's Connect & Collaborate
-
-I'm always open to discussing frontend, C/C++, or tech in general.
-
-[[Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.ashlokkumar.me/) 
-[[LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashlok-kumar-998693379/) 
-[[Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashlokkumar2006@gmail.com)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/>](https://www.linkedin.com/in/ashlok-kumar-998693379/) &nbsp;
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="30"/>](mailto:ashlokkumar2006@gmail.com) &nbsp;
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30"/>](https://github.com/TScom-dew)
 
 ---
+
+[![](https://komarev.com/ghpvc/?username=TScom-dew&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/TScom-dew)
 
 ⭐️ **From [TScom-dew](https://github.com/TScom-dew)**
