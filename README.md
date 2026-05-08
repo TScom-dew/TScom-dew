@@ -11,8 +11,8 @@ I’m a first-semester BCA student at **Vinoba Bhave University, Hazaribagh** wh
 ### 🚀 About Me
 
 - 🎓 **Currently:** Pursuing BCA, 1st Semester
-- 💻 **Core Interest:** Frontend Development, C/C++ Programming,
-- 🌱 **Currently Learning:** HTML, CSS, Basic JavaScript, Basic DSA in C/C++, GitHub
+- 💻 **Core Interest:** Frontend Development, C/C++ Programming, UI/UX
+- 🌱 **Currently Learning:** HTML, CSS, Basic JavaScript, Basic DSA in C/C++, Git & GitHub
 - 🎯 **2026 Goal:** Master frontend + build strong DSA foundation in C++
 - 💡 **Motto:** Learn. Build. Share. Repeat.
 
@@ -28,9 +28,9 @@ I’m a first-semester BCA student at **Vinoba Bhave University, Hazaribagh** wh
 
 ### 📊 GitHub Analytics
 
-[[Ashlok's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TScom-dew&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/TScom-dew)
+[Ashlok's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TScom-dew&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-[[Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TScom-dew&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/TScom-dew)
+[Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TScom-dew&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
