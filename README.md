@@ -25,16 +25,6 @@
 
 ---
 
-### 📊 GitHub Activity
-
-[[Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TScom-dew&theme=react-dark&hide_border=true&area=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
-
-### 🏆 GitHub Trophies
-
-[[Trophies](https://github-profile-trophy.vercel.app/?username=TScom-dew&theme=onedark&no-frame=true&row=1&column=6&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
 ### 📫 Connect With Me
 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/>](https://www.linkedin.com/in/ashlok-kumar-998693379/) &nbsp;
@@ -46,7 +36,7 @@
 
 ### 💬 Dev Quote
 
-[[Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it’s%20bad.)](https://github.com/shravan20/github-readme-quotes)
+[[Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/shravan20/github-readme-quotes)
 
 ---
 
