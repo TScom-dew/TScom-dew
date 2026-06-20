@@ -41,9 +41,7 @@
 ---
 
 ### 📊 GitHub Stats
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=TScom-dew&show_icons=true&theme=tokyonight&count_private=true" />
-</div>
+![Ashlok's GitHub stats](https://github-readme-stats.vercel.app/api?username=TScom-dew&theme=tokyonight\&show_icons=true\&show=prs_merged,prs_merged_percentage)
 
 ### GitHub Streak
 [![GitHub Streak](https://streak-stats.demolab.com/?user=TScom-dew&theme=tokyonight)](https://git.io/streak-stats)
@@ -54,8 +52,7 @@
 </div>
 
 ### GitHub Activity Graph
-[![Ashloh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TScom-dew&theme=tokyonight)](https://github.com/TScom-dew/github-readme-activity-graph)
-
+[![Ashloh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TScom-dew&theme=github-compact)](https://github.com/TScom-dew/github-readme-activity-graph)
 
 
 
@@ -66,11 +63,11 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=TScom-dew&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
-<p align="left">
 
 
 ⭐️ **From [TScom-dew, Ashlok Kumar](https://github.com/TScom-dew)**
