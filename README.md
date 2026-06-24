@@ -41,18 +41,18 @@
 ---
 
 ### 📊 GitHub Stats
-![Ashlok's GitHub stats](https://github-readme-stats.vercel.app/api?username=TScom-dew&theme=tokyonight\&show_icons=true\&show=prs_merged,prs_merged_percentage)
+![Ashlok's GitHub stats](https://github-readme-stats.vercel.app/api?username=TScom-dew&theme=radical\&show_icons=true\&show=prs_merged,prs_merged_percentage)
 
 ### GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com/?user=TScom-dew&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=TScom-dew&theme=radical)](https://git.io/streak-stats)
 
 ### Top Languages
 <div  align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TScom-dew&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TScom-dew&layout=compact&theme=radical" />
 </div>
 
 ### GitHub Activity Graph
-[![Ashloh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TScom-dew&theme=github-compact)](https://github.com/TScom-dew/github-readme-activity-graph)
+[![Ashloh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TScom-dew&theme=radical)](https://github.com/TScom-dew/github-readme-activity-graph)
 
 
 
