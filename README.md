@@ -70,4 +70,4 @@
 
 
 
-⭐️ **From [TScom-dew, Ashlok Kumar](https://github.com/TScom-dew)**
+⭐️ **From [TScom-dew](https://github.com/TScom-dew)**
