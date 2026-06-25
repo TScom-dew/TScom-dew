@@ -58,10 +58,10 @@
 
 ---
 
-### 💬 Dev Quote
-<p align="left">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
+> [!Important]
+> *"Success is the sum of small efforts, repeated day in and day out."* </br>
+> *"सफलता छोटे-छोटे प्रयासों का योग है, जिन्हें दिन-रात दोहराया जाता है।"*
+
 
 
 <p align="left">
