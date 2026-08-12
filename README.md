@@ -49,6 +49,7 @@
 
 
 
+
 ### Top Languages
 <div  align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TScom-dew&layout=compact&theme=tokyonight" />
@@ -59,19 +60,7 @@
 [![Ashloh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TScom-dew&theme=react-dark)](https://github.com/TScom-dew/github-readme-activity-graph)
 
 
-
 ---
-
-> [!Important]
-> *"Success is the sum of small efforts, repeated day in and day out."* </br>
-> *"सफलता छोटे-छोटे प्रयासों का योग है, जिन्हें दिन-रात दोहराया जाता है।"*
-
-
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=TScom-dew&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
 
 
 ⭐️ **From [TScom-dew](https://github.com/TScom-dew)**
