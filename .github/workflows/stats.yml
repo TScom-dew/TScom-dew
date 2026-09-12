@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: leonardssh/github-language-stats@v1
+      - uses: carlospie/github-stats-svg@master
         with:
           username: TScom-dew
           token: ${{ secrets.STATS_TOKEN }}
