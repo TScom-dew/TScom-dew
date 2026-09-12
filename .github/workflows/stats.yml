@@ -13,8 +13,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: StefVuck/Github-Language-Stats@v1.2.0
+      - uses: leonardssh/github-language-stats@v1
         with:
-          github_token: ${{ secrets.STATS_TOKEN }}
-          visualization_types: "donut"
-          output_path: "stats"
+          username: TScom-dew
+          token: ${{ secrets.STATS_TOKEN }}
+          scope: all
+          forks: false
+          archived: false
