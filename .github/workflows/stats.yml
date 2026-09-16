@@ -1,4 +1,4 @@
-name: Update Language Statistics
+noname: Update Language Statistics
 
 on:
   schedule:
@@ -17,6 +17,7 @@ jobs:
         with:
           username: TScom-dew
           token: ${{ secrets.STATS_TOKEN }}
-          scope: all
-          forks: false
-          archived: false
+          visualization_types: "leaderboard"
+          output_path: "stats"
+          
+          
