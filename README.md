@@ -41,25 +41,23 @@
 ---
 
 ### 📊 GitHub Stats
-![Ashlok's GitHub stats](https://github-readme-stats.vercel.app/api?username=TScom-dew&theme=tokyonight\&show_icons=true\&show=prs_merged,prs_merged_percentage)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=TScom-dew&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=TScom-dew&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=dark_github)
 
 ### GitHub Streak
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=TScom-dew&theme=tokyonight)](https://git.io/streak-stats)
 
 
-
-
 ### Top Languages
-<div  align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TScom-dew&layout=compact&theme=tokyonight" />
-</div>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=TScom-dew&layout=donut&langs_count=12&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=TScom-dew&layout=donut&langs_count=12&theme=dark_github)
 
+<!--
 ### GitHub Activity Graph
 
 [![Ashloh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TScom-dew&theme=react-dark)](https://github.com/TScom-dew/github-readme-activity-graph)
 
-
+-->
 ---
 
 
