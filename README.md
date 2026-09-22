@@ -46,8 +46,7 @@
 
 ### GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=TScom-dew&theme=tokyonight)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=TScom-dew&theme=holi-theme)](https://git.io/streak-stats)
 
 ### Top Languages
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=TScom-dew&layout=donut&langs_count=12&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=TScom-dew&layout=donut&langs_count=12&theme=dark_github)
