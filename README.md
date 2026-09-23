@@ -47,17 +47,30 @@
 ### GitHub Streak
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=TScom-dew&theme=holi-theme)](https://git.io/streak-stats)
+<!-- 
+Theme: 
+blueberry-duo
+ads-juicy-fresh
+black-ice
+neon-dark
+dark-smoky
+holi-theme
+github-dark-blue
+elegant
+navy-gear
+
+-->
 
 ### Top Languages
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=TScom-dew&layout=donut&langs_count=12&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=TScom-dew&layout=donut&langs_count=12&theme=dark_github)
+
 
 <!--
 ### GitHub Activity Graph
 
 [![Ashloh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TScom-dew&theme=react-dark)](https://github.com/TScom-dew/github-readme-activity-graph)
-
 -->
----
+
 
 
 ⭐️ **From [TScom-dew](https://github.com/TScom-dew)**
