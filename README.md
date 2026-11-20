@@ -54,12 +54,17 @@
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=TScom-dew&layout=donut&langs_count=12&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=TScom-dew&layout=donut&langs_count=12&theme=dark_github)
 
 
-<!--
+
 ### GitHub Activity Graph
+[![Ashloh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TScom-dew&theme=radical)](https://github.com/TScom-dew/github-readme-activity-graph)
 
-[![Ashloh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TScom-dew&theme=react-dark)](https://github.com/TScom-dew/github-readme-activity-graph)
--->
+---
+---
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=TScom-dew&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
 
 ⭐️ **From [TScom-dew](https://github.com/TScom-dew)**
+---
