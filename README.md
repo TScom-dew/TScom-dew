@@ -47,7 +47,9 @@
 
 ### GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=TScom-dew&theme=blueberry-duo)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=TScom-dew&theme=holi-theme)](https://git.io/streak-stats)
+
+ <!-- blueberry-duo -->
 
 
 ### Top Languages
